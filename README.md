@@ -12,3 +12,6 @@ https://leetcode.com/problems/assign-cookies/
 
 DAY 4:
 https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+
+DAY 5:
+https://leetcode.com/problems/can-place-flowers/
