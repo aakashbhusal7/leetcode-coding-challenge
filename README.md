@@ -18,3 +18,6 @@ https://leetcode.com/problems/can-place-flowers/
 
 DAY 6:
 https://leetcode.com/problems/contains-duplicate/
+
+DAY 7:
+https://leetcode.com/problems/maximum-product-of-three-numbers/
