@@ -15,3 +15,6 @@ https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 
 DAY 5:
 https://leetcode.com/problems/can-place-flowers/
+
+DAY 6:
+https://leetcode.com/problems/contains-duplicate/
