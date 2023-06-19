@@ -21,3 +21,6 @@ https://leetcode.com/problems/contains-duplicate/
 
 DAY 7:
 https://leetcode.com/problems/maximum-product-of-three-numbers/
+
+DAY 8:
+https://leetcode.com/problems/search-insert-position/
