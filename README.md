@@ -24,3 +24,9 @@ https://leetcode.com/problems/maximum-product-of-three-numbers/
 
 DAY 8:
 https://leetcode.com/problems/search-insert-position/
+
+DAY 9:
+https://leetcode.com/problems/island-perimeter/
+
+DAY 10:
+https://leetcode.com/problems/verifying-an-alien-dictionary/
