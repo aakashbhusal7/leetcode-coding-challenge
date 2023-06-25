@@ -39,3 +39,6 @@ https://leetcode.com/problems/longest-common-prefix/
 
 DAY 13:
 https://leetcode.com/problems/roman-to-integer/
+
+DAY 14:
+https://leetcode.com/problems/valid-palindrome/
