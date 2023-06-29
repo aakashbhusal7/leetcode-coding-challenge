@@ -45,3 +45,12 @@ https://leetcode.com/problems/valid-palindrome/
 
 DAY 15:
 https://leetcode.com/problems/isomorphic-strings/
+
+DAY 16:
+https://leetcode.com/problems/add-strings/
+
+DAY 17:
+https://leetcode.com/problems/student-attendance-record-i/
+
+DAY 18:
+https://leetcode.com/problems/excel-sheet-column-title/
