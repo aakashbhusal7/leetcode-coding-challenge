@@ -59,4 +59,4 @@ DAY 19:
 https://leetcode.com/problems/make-the-string-great/
 
 DAY 20:
-https://leetcode.com/problems/add-binary/
+https://leetcode.com/problems/word-break/
