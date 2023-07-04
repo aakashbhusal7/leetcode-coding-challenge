@@ -60,3 +60,9 @@ https://leetcode.com/problems/make-the-string-great/
 
 DAY 20:
 https://leetcode.com/problems/word-break/
+
+DAY 21:
+https://leetcode.com/problems/lemonade-change/
+
+DAY 22:
+https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
