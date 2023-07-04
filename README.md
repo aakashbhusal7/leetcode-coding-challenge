@@ -54,3 +54,9 @@ https://leetcode.com/problems/student-attendance-record-i/
 
 DAY 18:
 https://leetcode.com/problems/excel-sheet-column-title/
+
+DAY 19:
+https://leetcode.com/problems/make-the-string-great/
+
+DAY 20:
+https://leetcode.com/problems/word-break/
