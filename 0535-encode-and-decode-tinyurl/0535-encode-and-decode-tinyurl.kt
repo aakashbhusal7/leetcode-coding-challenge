@@ -1,12 +1,16 @@
 class Codec() {
-    // Encodes a URL to a shortened URL.
+    val map = mutableMapOf<String, String>()
+    var increment = 100
+
     fun encode(longUrl: String): String {
-        return longUrl;
+        val key = Integer.toHexString(increment++)
+        map[key] = longUrl
+        return "http://tinyurl.com/" + key
     }
 
-    // Decodes a shortened URL to its original URL.
     fun decode(shortUrl: String): String {
-        return shortUrl;
+        val key = shortUrl.substring(shortUrl.indexOfLast { it=='/' }+1)
+        return map[key]!!
     }
 }
 
